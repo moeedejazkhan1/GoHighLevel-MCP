@@ -1,13 +1,3 @@
-**Instead of trying to tackle this ---- use our hosted version --- GHL Agent Framework, One Click to Sign in!**
-
-https://www.strategixagents.com/
-
-# 🚀 GoHighLevel MCP Server
-
-## 🚨 **IMPORTANT: FOUNDATIONAL PROJECT NOTICE** 
-
-> **⚠️ This is a BASE-LEVEL foundational project designed to connect the GoHighLevel community with AI automation through MCP (Model Context Protocol).**
-
 ### **🎯 What This Project Is:**
 - **Foundation Layer**: Provides access to ALL sub-account level GoHighLevel API endpoints via MCP
 - **Community Starter**: Built to get the community moving forward together, faster
@@ -715,10 +705,6 @@ git push origin feature/amazing-new-tool
 - Implement proper error handling
 - Include integration tests
 
-## 📄 License
-
-This project is licensed under the **ISC License** - see the [LICENSE](LICENSE) file for details.
-
 ## 🆘 Community & Support
 
 ### Documentation
@@ -726,18 +712,6 @@ This project is licensed under the **ISC License** - see the [LICENSE](LICENSE) 
 - 🎥 [Video Tutorials](docs/videos/)
 - 📋 [Tool Reference Guide](docs/tools/)
 - 🔧 [Deployment Guides](docs/deployment/)
-
-### Getting Help
-- **Issues**: [GitHub Issues](https://github.com/mastanley13/GoHighLevel-MCP/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/mastanley13/GoHighLevel-MCP/discussions)
-- **API Reference**: [GoHighLevel API Docs](https://highlevel.stoplight.io/)
-- **MCP Protocol**: [Model Context Protocol](https://modelcontextprotocol.io/)
-
-### Community Resources
-- 💬 Join our Discord community
-- 📺 Subscribe to our YouTube channel
-- 📰 Follow our development blog
-- 🐦 Follow us on Twitter for updates
 
 ## 🎉 Success Metrics
 
@@ -754,30 +728,6 @@ This comprehensive MCP server delivers:
 ### ✅ **Community-Driven Development** with comprehensive documentation
 
 ---
-
-## 🚀 **Ready to revolutionize your GoHighLevel automation?**
-
-**Deploy now and unlock the full potential of AI-powered CRM management!**
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/mastanley13/GoHighLevel-MCP) [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/mastanley13/GoHighLevel-MCP)
-
----
-
-## 💝 Support This Project
-
-This project represents hundreds of hours of development work to help the GoHighLevel community. If it's saving you time and helping your business, consider supporting its continued development:
-
-### 🎁 Ways to Support:
-- **⭐ Star this repo** - Helps others discover the project
-- **🍕 Buy me a pizza** - [Donate via Stripe](https://buy.stripe.com/28E14o1hT7JAfstfvqdZ60y) 
-- **🐛 Report bugs** - Help make it better for everyone
-- **💡 Suggest features** - Share your ideas for improvements
-- **🤝 Contribute code** - Pull requests are always welcome!
-
-### 🏆 Recognition:
-- Contributors will be listed in the project
-- Significant contributions may get special recognition
-- This project is community-driven and community-supported
 
 **Every contribution, big or small, helps keep this project alive and growing!** 🚀
 
